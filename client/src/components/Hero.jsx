@@ -15,7 +15,7 @@ function Hero() {
                  with 
                  <span className='text-primary'> AI tools</span> </h1>
             <p className='mt-4 max-w-xs sm:max-w-lg 2xl:max-w-xl m-auto max-sm:text-xs text-gray-600'>
-                Transform your content creation with our suite of premium AI tools. Write articles , generate images, and enhancce your  workflow.
+                Transform your content creation with our suite of premium AI tools. Write articles , generate images, and enhance your  workflow.
             </p>
         </div>
 
@@ -30,7 +30,7 @@ function Hero() {
             <img src={assets.user_group} alt="" className='h-8' />
             trusted by 10k+
         </div>
-        
+
     </div>
   )
 }
